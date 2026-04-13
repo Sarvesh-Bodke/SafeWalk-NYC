@@ -6,6 +6,19 @@ SafeWalk NYC combines real-time crime data, streetlight complaints, traffic sign
 
 ---
 
+## Screenshots
+
+### Landing Page
+![SafeWalk NYC Landing Page](public/screenshots/landing.png)
+
+### Route Planner — Conversational Input
+![Route Planner with Chat](public/screenshots/input.png)
+
+### Route Results — 3 Scored Alternatives
+![Three Route Alternatives](public/screenshots/result.png)
+
+---
+
 ## Demo
 
 ```
